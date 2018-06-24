@@ -36,7 +36,7 @@ public class Database {
 		}
 		
 		String url = "jdbc:postgresql://localhost:5432/swingtest";
-		con = DriverManager.getConnection(url, "postgres", "Packers10");
+		con = DriverManager.getConnection(url, "postgres", "Mb123ko");
 		
 		System.out.println("Connected: " + con);
 	}
